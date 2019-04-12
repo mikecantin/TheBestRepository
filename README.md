@@ -1,5 +1,5 @@
 # TheBestRepository #
-## Markdown Mocumentation ##
+## Markdown Documentation ##
 
 * https://guides.github.com/features/mastering-markdown/
 * https://help.github.com/en/articles/basic-writing-and-formatting-syntax
